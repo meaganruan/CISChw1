@@ -1,4 +1,7 @@
 package cisc3115;
+/*Meagan Ruan 
+CISC3115
+HW1*/
 
 import java.util.Scanner;
 
